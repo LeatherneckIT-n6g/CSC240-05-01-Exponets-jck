@@ -45,6 +45,7 @@ namespace Exponents
 
                 // OUTPUT
                 xOutputLabel.Text = $"Square: {squaredNum}\nCube: {cubedNum}";
+                xOutputLabel.ForeColor = Color.Green;
                 xOutputLabel.Visible = true;
                 // set the output to visible
 
