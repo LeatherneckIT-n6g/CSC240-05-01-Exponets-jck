@@ -8,8 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 
 /**************************************
- * Name:
- * Date:
+ * Name:        John Kiper
+ * Date:        07/30/2025
  * Description: A program using user-created method
  *              for the math function Square and Cube
  * Assistance:
